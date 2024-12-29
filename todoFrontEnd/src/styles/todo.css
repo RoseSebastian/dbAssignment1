@@ -1,0 +1,25 @@
+.todo-app{
+  margin: 20px;
+}
+form{
+  display: flex;
+  gap: 5px;
+  margin: 15px 0;
+}
+
+.title{
+  display: flex;
+  gap: 10px;
+  align-items: center;
+}
+
+li{
+  margin-bottom: 10px;
+}
+.completed{
+  color: green;
+}
+
+.pending{
+  color: brown;
+}
